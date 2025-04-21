@@ -45,4 +45,4 @@ Feel free to fork this repository and submit pull requests for improvements or b
 
 ## License
 
-This project is open-source and available under the [MIT License](LICENSE).
+This project is open-source and available under the [[MIT License](https://github.com/shadyProg/DS_project/commit/001f91fd4977a6f34cf7fc6fc2b959668800b63c)](LICENSE).
